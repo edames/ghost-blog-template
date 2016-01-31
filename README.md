@@ -1,5 +1,8 @@
 <a href="https://github.com/TryGhost/Ghost"><img src="https://cloud.githubusercontent.com/assets/120485/6622822/c4c639fe-c8e7-11e4-9e64-5bec06c8b4c3.png" alt="Ghost" /></a>
-<a href="https://travis-ci.org/TryGhost/Ghost"><img align="right" src="https://travis-ci.org/TryGhost/Ghost.svg?branch=master" alt="Build status" /></a>
+
+<div style="float: right;">
+[ ![Codeship Status for edames/ghost-blog-template](https://codeship.com/projects/dbd6fb40-a9a8-0133-10f4-3aeb4207a4df/status?branch=master)](https://codeship.com/projects/130919)
+</div>
 
 ![Ghost Screenshot](https://cloud.githubusercontent.com/assets/120485/6626466/6dae46b2-c8ff-11e4-8c7c-8dd63b215f7b.jpg)
 
